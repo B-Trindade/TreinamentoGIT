@@ -1,4 +1,4 @@
-Essa atividade deverá ser feita em dupla. Você e seu colega desenvolverão, remotamente, duas histórias em conjunto. Uma será iniciada por você neste computador, numa branch com seu nome. A outra história pela outra pessoa, numa branch feita por ela.
+﻿Essa atividade deverá ser feita em dupla. Você e seu colega desenvolverão, remotamente, duas histórias em conjunto. Uma será iniciada por você neste computador, numa branch com seu nome. A outra história pela outra pessoa, numa branch feita por ela.
 
 A ideia é que vocês escrevam apenas um parágrafo por vez, alternando entre escrever um parágrafo na sua história e o seguinte na do(a) colega.
 
@@ -19,5 +19,7 @@ Infelizmente, na fração de segundo em que ingeria o restante da farofa, Bandei
 
 Então, Bandeijão, derrotado, perdeu seu título de campeão em quantidade por minuto. Sasse, o
 vencedor passou a comer mais rápido que nunca e honrou o título de velocista em comida.
+
+Paragrafo a mais para encher linguiça.
 
 ----------------------------------------------------------------------------------------
